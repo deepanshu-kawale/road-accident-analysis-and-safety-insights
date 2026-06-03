@@ -45,6 +45,17 @@ Increase surveillance during peak accident hours
 Use warning systems in low visibility and high-risk zones
 Strengthen road safety regulations and speed control systems
 
+## 📊 Dashboard Preview
+
+### Page 1
+![Page 1](page-1.png)
+
+### Page 2
+![Page 2](page-2.png)
+
+### Page 3
+![Page 3](page-3.png)
+
 📌 Conclusion
 
 The analysis shows that road accidents are strongly influenced by time, weather, and infrastructure conditions. Targeted safety measures in high-risk areas and improved traffic management can significantly reduce accident frequency and severity.
